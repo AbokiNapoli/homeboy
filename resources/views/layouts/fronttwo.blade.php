@@ -35,7 +35,7 @@
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link active text-uppercase" href="{{ route('about.index') }}" aria-label="nav-links" aria-current="page">
+										<a class="nav-link active text-uppercase" href="{{ route('about') }}" aria-label="nav-links" aria-current="page">
 											<span class="fw-semibold">About Us</span>
 										</a>
 									</li>
@@ -45,7 +45,7 @@
 										</a>
 									</li>																	
 									<li class="nav-item">
-										<a class="nav-link text-uppercase" href="{{route('contact.index')}}" aria-label="nav-links">
+										<a class="nav-link text-uppercase" href="{{route('contact')}}" aria-label="nav-links">
 											<span class="fw-semibold">Contact Us</span>
 										</a>
 									</li>			  

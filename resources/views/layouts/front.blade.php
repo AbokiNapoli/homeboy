@@ -35,7 +35,7 @@
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link gap-0 flex-column text-uppercase" href="{{ route('about.index') }}" aria-label="nav-links">							
+						<a class="nav-link gap-0 flex-column text-uppercase" href="{{ route('about') }}" aria-label="nav-links">							
 							<span class="fw-semibold">About Us</span>
 						</a>
 					</li>
@@ -46,7 +46,7 @@
 					</li>								
 					
 					<li class="nav-item">
-						<a class="nav-link gap-0 flex-column text-uppercase" href="{{route('contact.index')}}" aria-label="nav-links">
+						<a class="nav-link gap-0 flex-column text-uppercase" href="{{route('contact')}}" aria-label="nav-links">
 							<span class="fw-semibold">Contact Us</span>
 						</a>
 					</li>		  

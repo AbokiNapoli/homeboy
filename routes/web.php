@@ -18,5 +18,12 @@ use App\Http\Controllers\ContactController;
 Route::get('/', function () {
     return view('welcome');
 })->name('home');
-Route::resource('about', AboutController::class);
-Route::resource('contact', ContactController::class);
+
+Route::get('about', function () {
+    return view('about.about'); // Corrected view name
+})->name('about');
+Route::get('contact', function () {
+    return view('contact.contactdetails'); // Corrected view name
+})->name('contact');
+// Route::resource('about', AboutController::class);
+// Route::resource('contact', ContactController::class);
