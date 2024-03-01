@@ -1,4 +1,4 @@
-FROM richarvey/nginx-php-fpm:3.1.6
+FROM richarvey/nginx-php-fpm:3.0.0
 
 # Set the timezone to your desired timezone (replace 'America/New_York' with your timezone)
 ENV TZ=America/New_York
