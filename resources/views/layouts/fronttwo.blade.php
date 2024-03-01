@@ -3,29 +3,7 @@
 
 	
 <!-- Mirrored from themeperch.net/html/eventiva/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jan 2024 17:34:56 GMT -->
-<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="Eventiva description contents">
-		<title>Eventiva</title>
-		<link rel="shortcut icon" type="images/png" href="{{asset('assets/images/global/favicon.ico')}}">
-
-		<!-- Google fonts -->	
-		<link rel="preconnect" href="fonts.googleapis.com/index.html">
-		<link rel="preconnect" href="fonts.gstatic.com/index.html" crossorigin>
-		
-		<link rel="stylesheet" href="{{asset('assets/css/animate.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/swiper-bundle.min.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/leaflet.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/leaflet-routing-machine.css')}}">		
-		
-		<!-- Main CSS -->
-		<link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
-		
-	</head>
-
+@include('includes.head')
 
 
 	<body class="home-1">
