@@ -940,7 +940,7 @@
                             <div class="swiper-slide">
                                 <div class="merchandise-wrapper">
                                     <div class="merchandise-image mb-4">
-                                        <img src="assets/images/home-6/merchandise-1.png" alt="img">
+                                        <img src="assets/images/home-6/visit.jpeg" alt="img">
                                     </div>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <div >
@@ -954,16 +954,13 @@
                             <div class="swiper-slide">
                                 <div class="merchandise-wrapper">
                                     <div class="merchandise-image mb-4">
-                                        <img src="assets/images/home-6/merchandise-2.png" alt="img">
+                                        <img src="assets/images/home-6/visit.jpeg" alt="img">
                                     </div>
                                     <div class="d-flex justify-content-between align-items-center">
-                                        <div class="product-information">
-                                            <h5>White Cap</h5>
-                                            <h6 class="text-primary fw-bold">$24.99</h6>
+                                        <div >
+                                            <h5>Visit to Korlebu intensive care unit</h5>
                                         </div>
-                                        <div>
-                                            <a href="#" class="btn btn-outline-primary btn-custom-dark" aria-label="buttons">Buy Now</a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -971,16 +968,14 @@
                             <div class="swiper-slide">
                                 <div class="merchandise-wrapper">
                                     <div class="merchandise-image mb-4">
-                                        <img src="assets/images/home-6/merchandise-3.png" alt="img">
+                                        <img src="assets/images/home-6/visit.jpeg" alt="img">
                                     </div>
                                     <div class="d-flex justify-content-between align-items-center">
-                                        <div class="product-information">
-                                            <h5>Black T-Shirt</h5>
-                                            <h6 class="text-primary fw-bold">$24.99</h6>
+                                        <div >
+                                            
+                                            <h5>Visit to Korlebu intensive care unit</h5>
                                         </div>
-                                        <div>
-                                            <a href="#" class="btn btn-outline-primary btn-custom-dark" aria-label="buttons">Buy Now</a>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -988,16 +983,14 @@
                             <div class="swiper-slide">
                                 <div class="merchandise-wrapper">
                                     <div class="merchandise-image mb-4">
-                                        <img src="assets/images/home-6/merchandise-4.png" alt="img">
+                                        <img src="assets/images/home-6/visit.jpeg" alt="img">
                                     </div>
                                     <div class="d-flex justify-content-between align-items-center">
-                                        <div class="product-information">
-                                            <h5>Black T-Shirt</h5>
-                                            <h6 class="text-primary fw-bold">$24.99</h6>
+                                        <div >
+                                            
+                                            <h5>Visit to Korlebu intensive care unit</h5>
                                         </div>
-                                        <div>
-                                            <a href="#" class="btn btn-outline-primary btn-custom-dark" aria-label="buttons">Buy Now</a>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
